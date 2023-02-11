@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "Moisès Pires",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.6.0"
+  }
 }
